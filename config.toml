@@ -1,0 +1,183 @@
+baseurl      = "/"
+title        = "Sajad Karim"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+paginate     = 10
+publishDir = "docs"
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+ 
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Everybody makes mistakes. Never regret them, correct them. There’s no such thing as a perfect world or perfect life. ― His Highness the Aga Khan IV"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+  EnableThemeToggle = true
+  defaultTheme = "dark"
+
+
+ 
+[params.footer]
+  copyright = true
+  #author = true
+  trademark = "2024"
+  topText = ["Powered by <a href='http://gohugo.io'>Hugo</a> (theme by <a href='https://github.com/rhazdon'>Djordje Atlialp</a>)"]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+
+[[params.social]]
+  name = "linkedin"
+  url = "#"
+[[params.social]]
+  name = "github"
+  url = "#"
+[[params.social]]
+  name = "matrix"
+  url = "#"
+[[params.social]]
+  name = "discord"
+  url = "#"
+[[params.social]]
+  name = "X"
+  url = "#"
+[[params.social]]
+  name = "researchgate"
+  url = "#"
+[[params.social]]
+  name = "orcid"
+  url = "#"
+[[params.social]]
+  name = "googlescholar"
+  url = "#"
+[[params.social]]
+  name = "case"
+  url = "#"
+[[params.social]]
+  name = "email"
+  url = "mailto:sajad.karim<at>gmail<dot>com"
+
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.de]
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'De'    
+    title = "Sayad Karim"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    readOtherPosts = "Read other posts"
+    homeSubtitle = "Jeder macht Fehler. Bereue sie nie, korrigiere sie. Es gibt weder eine perfekte Welt noch ein perfektes Leben. ― His Highness the Aga Khan IV"
+
+    [languages.de.params.logo]
+      #logoText = "sajad.karim@abdul.rahim:~$"
+      logoText = "sajad.karim:~$"
+      logoHomeLink = ""
+      logoCursorColor = "#074ada"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[languages.de.menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "#"
+  [[languages.de.menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "#"
+  [[languages.de.menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "#"    
+  [[languages.de.menu.main]]
+    identifier = "publications"
+    name       = "Publications"
+    url        = "#"
+
+  [languages.en]
+    languageCode = 'en-EN'
+    languageDirection = 'ltr'
+    languageName = 'En'
+    title = "Sajad Karim"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      #logoText = "sajad.karim@abdul.rahim:~$"
+      logoText = "sajad.karim:~$"
+      logoHomeLink = ""
+      logoCursorColor = "#074ada"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "#"
+  [[languages.en.menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "#"
+  [[languages.en.menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "#"    
+  [[languages.en.menu.main]]
+    identifier = "publications"
+    name       = "Publications"
+    url        = "#"
+
+  [languages.bru]
+    languageCode = 'bru-BRU'
+    languageDirection = 'ltr'
+    languageName = 'Burushaski'    
+    title = "Shookrullah Baig"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    homeSubtitle = "datlas bābo kay shākar māma mo shookro!"
+    readOtherPosts = "Read other posts"
+
+    [languages.bru.params.logo]
+      #logoText = "sajad.karim@abdul.rahim:~$"
+      logoText = "sajad.karim:~$"
+      logoHomeLink = ""
+      logoCursorColor = "#074ada"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+    [[languages.bru.menu.main]]
+      identifier = "about"
+      name       = "About"
+      url        = "#"
+
