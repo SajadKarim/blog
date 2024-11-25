@@ -13,7 +13,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "Everybody makes mistakes. Never regret them, correct them. There’s no such thing as a perfect world or perfect life. ― His Highness the Aga Khan IV"
+  #homeSubtitle = "Everybody makes mistakes. Never regret them, correct them. There’s no such thing as a perfect world or perfect life. ― His Highness the Aga Khan IV"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -123,7 +123,8 @@ defaultContentLanguageInSubdir = false
     title = "Sajad Karim"
     subtitle = "A simple theme for Hugo"
     keywords = ""
-    
+    homeSubtitle = "Everybody makes mistakes. Never regret them, correct them. There’s no such thing as a perfect world or perfect life. ― His Highness the Aga Khan IV"
+
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
