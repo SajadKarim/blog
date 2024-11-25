@@ -162,7 +162,7 @@ defaultContentLanguageInSubdir = false
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    homeSubtitle = "datlas bābo kay shākar māma mo shookro!"
+    homeSubtitle = "Jay me datlas bābo kay shākar māma mo shookro ba!"
     readOtherPosts = "Read other posts"
 
     [languages.bru.params.logo]
