@@ -45,19 +45,19 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 
 [[params.social]]
   name = "linkedin"
-  url = "#"
+  url = "https://de.linkedin.com/in/sajadkarim"
 [[params.social]]
   name = "github"
-  url = "#"
+  url = "https://github.com/SajadKarim"
 [[params.social]]
   name = "matrix"
-  url = "#"
+  url = "@sajad.karim:matrix.org"
 [[params.social]]
   name = "discord"
-  url = "#"
+  url = "@sajad.karim"
 [[params.social]]
   name = "X"
-  url = "#"
+  url = "https://twitter.com/sajadkarim"
 [[params.social]]
   name = "researchgate"
   url = "#"
@@ -66,10 +66,10 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   url = "#"
 [[params.social]]
   name = "googlescholar"
-  url = "#"
+  url = "https://www.researchgate.net/profile/Sajad_Karim"
 [[params.social]]
   name = "case"
-  url = "#"
+  url = "https://www.dbse.ovgu.de/en/Staff/Sajad+Karim.html"
 [[params.social]]
   name = "email"
   url = "mailto:sajad.karim<at>gmail<dot>com"
