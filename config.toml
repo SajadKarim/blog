@@ -90,7 +90,7 @@ defaultContentLanguageInSubdir = false
 
     [languages.de.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "sajad.karim:~$"
+      logoText = "lila.saj:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
@@ -129,7 +129,7 @@ defaultContentLanguageInSubdir = false
 
     [languages.en.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "sajad.karim:~$"
+      logoText = "lila.saj:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
@@ -168,7 +168,7 @@ defaultContentLanguageInSubdir = false
 
     [languages.bru.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "sajad.karim:~$"
+      logoText = "lila.saj:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
