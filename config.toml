@@ -1,4 +1,4 @@
-baseurl      = "https://sajadkarim.github.io/blog/"
+baseurl      = "/"
 title        = "Sajad Karim"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
