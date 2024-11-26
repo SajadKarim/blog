@@ -7,14 +7,6 @@ publishDir = "docs"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 IsMultilingual = true
 
-[[module.mounts]]
-source = 'static'
-target = 'static'
-
-[[module.mounts]]
-source = 'images'
-target = 'static/images'
-
 [params]
 IsMultilingual = true
   dateform        = "Jan 2, 2006"
@@ -193,3 +185,10 @@ contentDir = "content/bru"
       name       = "About"
       url        = "/about"
 
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
