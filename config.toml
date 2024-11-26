@@ -1,4 +1,4 @@
-baseurl      = "https://sajadkarim.github.io/blog/"
+baseurl      = "/"
 title        = "Sajad Karim"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -186,4 +186,16 @@ contentDir = "content/bru"
       name       = "About"
       url        = "/about"
 
+[markup.goldmark.renderHooks.image]
+enableDefault = true
 
+[markup.goldmark.renderHooks.link]
+enableDefault = true
+
+[[module.mounts]]
+source = 'assets'
+target = 'assets'
+
+[[module.mounts]]
+source = 'static'
+target = 'assets'
