@@ -12,25 +12,22 @@
                     </svg>
                 </span>
             {{- end }}
-
-            {{- if .Site.Params.EnableThemeToggle }}
-                <span class="theme-toggle not-selectable">{{ partial "theme-toggle-icon.html" . }}</span>
-            {{- end}}
-		
-		&nbsp
 		{{ with .AllTranslations }}
 		  <nav class="language-switcher">
 		    {{ range . }}
 		      {{ if eq .Language.Lang $.Language.Lang }}
-			<a class="active" aria-current="page" href="{{ .Permalink }}" style="text-decoration: underline;">{{ .Language.LanguageName }}</a>
+			<a class="active" aria-current="page" href="{{ .Permalink }}" style="text-decoration: underline; font-size:xx-small;">{{ .Language.LanguageName }}</a>
 		      {{ else }}
-			<a href="{{ .Permalink }}" style="text-decoration: none;">{{ .Language.LanguageName }}</a>
+			<a href="{{ .Permalink }}" style="text-decoration: none; font-size:xx-small;">{{ .Language.LanguageName }}</a>
 		      {{ end }}
 		    {{ end }}
 		  </nav>
 		{{ end }}
+		&nbsp&nbsp&nbsp
 
-
+            {{- if .Site.Params.EnableThemeToggle }}
+                <span class="theme-toggle not-selectable">{{ partial "theme-toggle-icon.html" . }}</span>
+            {{- end}}
         </span>
     </span>
 </header>

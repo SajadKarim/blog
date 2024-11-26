@@ -5,8 +5,9 @@ theme        = "hello-friend-ng"
 paginate     = 10
 publishDir = "docs"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
- 
+IsMultilingual = true
 [params]
+IsMultilingual = true
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -81,7 +82,7 @@ defaultContentLanguageInSubdir = false
   [languages.de]
     languageCode = 'de-DE'
     languageDirection = 'ltr'
-    languageName = 'De'    
+    languageName = 'de'    
     title = "Sayad Karim"
     subtitle = "A simple theme for Hugo"
     keywords = ""
@@ -119,7 +120,7 @@ defaultContentLanguageInSubdir = false
   [languages.en]
     languageCode = 'en-EN'
     languageDirection = 'ltr'
-    languageName = 'En'
+    languageName = 'en'
     title = "Sajad Karim"
     subtitle = "A simple theme for Hugo"
     keywords = ""
@@ -158,7 +159,7 @@ defaultContentLanguageInSubdir = false
   [languages.bru]
     languageCode = 'bru-BRU'
     languageDirection = 'ltr'
-    languageName = 'Burushaski'    
+    languageName = 'burushaski'    
     title = "Shookrullah Baig"
     subtitle = "A simple theme for Hugo"
     keywords = ""
