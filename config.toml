@@ -1,4 +1,4 @@
-baseURL      = "/blog"
+baseurl      = "/blog"
 title        = "Sajad Karim"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
