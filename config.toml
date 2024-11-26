@@ -191,4 +191,4 @@ target = 'static'
 
 [[module.mounts]]
 source = 'images'
-target = 'blog/static/images'
+target = '/blog/static/images'
