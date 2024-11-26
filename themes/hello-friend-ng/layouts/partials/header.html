@@ -12,7 +12,12 @@
                     </svg>
                 </span>
             {{- end }}
-		{{ with .AllTranslations }}
+            {{- if .Site.Params.EnableThemeToggle }}
+                <span class="theme-toggle not-selectable">{{ partial "theme-toggle-icon.html" . }}</span>
+            {{- end}}
+        </span>
+        <span class="header__right">
+        		{{ with .AllTranslations }}
 		  <nav class="language-switcher">
 		    {{ range . }}
 		      {{ if eq .Language.Lang $.Language.Lang }}
@@ -23,11 +28,7 @@
 		    {{ end }}
 		  </nav>
 		{{ end }}
-		&nbsp&nbsp&nbsp
 
-            {{- if .Site.Params.EnableThemeToggle }}
-                <span class="theme-toggle not-selectable">{{ partial "theme-toggle-icon.html" . }}</span>
-            {{- end}}
-        </span>
+	</span>
     </span>
 </header>

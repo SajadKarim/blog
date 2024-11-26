@@ -6,6 +6,7 @@ paginate     = 10
 publishDir = "docs"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 IsMultilingual = true
+
 [params]
 IsMultilingual = true
   dateform        = "Jan 2, 2006"
