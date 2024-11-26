@@ -7,6 +7,14 @@ publishDir = "docs"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 IsMultilingual = true
 
+[[module.mounts]]
+source = 'static'
+target = 'static'
+
+[[module.mounts]]
+source = 'images'
+target = 'static/images'
+
 [params]
 IsMultilingual = true
   dateform        = "Jan 2, 2006"
@@ -89,7 +97,7 @@ defaultContentLanguageInSubdir = false
     keywords = ""
     readOtherPosts = "Read other posts"
     homeSubtitle = "Jeder macht Fehler. Bereue sie nie, korrigiere sie. Es gibt weder eine perfekte Welt noch ein perfektes Leben. ― His Highness the Aga Khan IV"
-
+    contentDir = "content/de"
     [languages.de.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
       logoText = "lila@saj:~$"
@@ -104,7 +112,7 @@ defaultContentLanguageInSubdir = false
   [[languages.de.menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "#"
+    url        = "about"
   [[languages.de.menu.main]]
     identifier = "blog"
     name       = "Blog"
@@ -126,7 +134,7 @@ defaultContentLanguageInSubdir = false
     subtitle = "A simple theme for Hugo"
     keywords = ""
     homeSubtitle = "Everybody makes mistakes. Never regret them, correct them. There’s no such thing as a perfect world or perfect life. ― His Highness the Aga Khan IV"
-
+	contentDir = "content/en"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
@@ -143,11 +151,11 @@ defaultContentLanguageInSubdir = false
   [[languages.en.menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "#"
+    url        = "/about"
   [[languages.en.menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "#"
+    url        = "/posts"
   [[languages.en.menu.main]]
     identifier = "projects"
     name       = "Projects"
@@ -158,16 +166,17 @@ defaultContentLanguageInSubdir = false
     url        = "#"
 
   [languages.bru]
-    languageCode = 'bru-BRU'
+    languageCode = 'bru'
     languageDirection = 'ltr'
-    languageName = 'burushaski'    
+    languageName = 'bru'    
     title = "Shookrullah Baig"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     homeSubtitle = "Jay me datlas bābo kay shākar māma mo shookro ba!"
     readOtherPosts = "Read other posts"
-
+    flag = "/images/bru.svg"
+contentDir = "content/bru"
     [languages.bru.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
       logoText = "lila@saj:~$"
@@ -182,5 +191,5 @@ defaultContentLanguageInSubdir = false
     [[languages.bru.menu.main]]
       identifier = "about"
       name       = "About"
-      url        = "#"
+      url        = "/about"
 
