@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sayad Karim</title>
+    <link>blog/de/tags/</link>
+    <description>Recent content in Tags on Sayad Karim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>beratung</title>
+      <link>blog/de/tags/beratung/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/beratung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bio</title>
+      <link>blog/de/tags/bio/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>full-stack-entwicklung</title>
+      <link>blog/de/tags/full-stack-entwicklung/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/full-stack-entwicklung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>führung</title>
+      <link>blog/de/tags/f%C3%BChrung/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/f%C3%BChrung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programmierung</title>
+      <link>blog/de/tags/programmierung/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/programmierung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>softwareentwicklung</title>
+      <link>blog/de/tags/softwareentwicklung/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/softwareentwicklung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>über mich</title>
+      <link>blog/de/tags/%C3%BCber-mich/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/%C3%BCber-mich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>untagged</title>
+      <link>blog/de/tags/untagged/</link>
+      <pubDate>Sun, 29 Aug 2021 11:58:21 +0000</pubDate>
+      
+      <guid>blog/de/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>blog/de/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>blog/de/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>blog/de/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>blog/de/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>blog/de/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>blog/de/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/de/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

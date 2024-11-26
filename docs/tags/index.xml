@@ -1,19 +1,136 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 4bes.nl-Hugo-Demo</title>
-    <link>https://ba4bes.github.io/4beshugo/tags/</link>
-    <description>Recent content in Tags on 4bes.nl-Hugo-Demo</description>
+    <title>Tags on Sajad Karim</title>
+    <link>blog/tags/</link>
+    <description>Recent content in Tags on Sajad Karim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en-EN</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 29 Aug 2021 11:58:21 +0000</lastBuildDate><atom:link href="https://ba4bes.github.io/4beshugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>blog/tags/about/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bio</title>
+      <link>blog/tags/bio/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>consulting</title>
+      <link>blog/tags/consulting/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/consulting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>full-stack development</title>
+      <link>blog/tags/full-stack-development/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/full-stack-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>leadership</title>
+      <link>blog/tags/leadership/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>blog/tags/programming/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software development</title>
+      <link>blog/tags/software-development/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/software-development/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>untagged</title>
-      <link>https://ba4bes.github.io/4beshugo/tags/untagged/</link>
+      <link>blog/tags/untagged/</link>
       <pubDate>Sun, 29 Aug 2021 11:58:21 +0000</pubDate>
       
-      <guid>https://ba4bes.github.io/4beshugo/tags/untagged/</guid>
+      <guid>blog/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>blog/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>blog/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>blog/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>blog/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>blog/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>blog/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>blog/tags/themes/</guid>
       <description></description>
     </item>
     
