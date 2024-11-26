@@ -1,4 +1,4 @@
-baseurl      = "/blog/"
+baseurl      = "/"
 title        = "Sajad Karim"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -191,4 +191,4 @@ target = 'static'
 
 [[module.mounts]]
 source = 'images'
-target = 'static/images'
+target = 'blog/static/images'
