@@ -1,4 +1,4 @@
-baseurl      = "/blog"
+baseurl      = "https://sajadkarim.github.io/blog/"
 title        = "Sajad Karim"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -186,10 +186,4 @@ contentDir = "content/bru"
       name       = "About"
       url        = "/about"
 
-[[module.mounts]]
-source = 'static'
-target = 'static'
 
-[[module.mounts]]
-source = 'images'
-target = 'static/images'
