@@ -81,6 +81,7 @@ defaultContentLanguageInSubdir = false
 
 [languages]
   [languages.de]
+  baseURL      = "/blog"
     languageCode = 'de-DE'
     languageDirection = 'ltr'
     languageName = 'de'    
@@ -119,6 +120,7 @@ defaultContentLanguageInSubdir = false
     url        = "#"
 
   [languages.en]
+  baseURL      = "/blog"
     languageCode = 'en-EN'
     languageDirection = 'ltr'
     languageName = 'en'
@@ -158,6 +160,7 @@ defaultContentLanguageInSubdir = false
     url        = "#"
 
   [languages.bru]
+  baseURL      = "/blog"
     languageCode = 'bru'
     languageDirection = 'ltr'
     languageName = 'bru'    
