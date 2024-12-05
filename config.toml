@@ -63,13 +63,13 @@ IsMultilingual = true
   url = "https://twitter.com/sajadkarim"
 [[params.social]]
   name = "researchgate"
-  url = "#"
+  url = "https://www.researchgate.net/profile/Sajad_Karim"
 [[params.social]]
   name = "orcid"
   url = "#"
 [[params.social]]
   name = "googlescholar"
-  url = "https://www.researchgate.net/profile/Sajad_Karim"
+  url = "#"
 [[params.social]]
   name = "case"
   url = "https://www.dbse.ovgu.de/en/Staff/Sajad+Karim.html"
@@ -91,9 +91,10 @@ defaultContentLanguageInSubdir = false
     readOtherPosts = "Read other posts"
     homeSubtitle = "Jeder macht Fehler. Bereue sie nie, korrigiere sie. Es gibt weder eine perfekte Welt noch ein perfektes Leben. ― His Highness the Aga Khan IV"
     contentDir = "content/de"
+    
     [languages.de.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "lila@saj:~$"
+      logoText = "mulayemshari@shookro:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
@@ -127,12 +128,12 @@ defaultContentLanguageInSubdir = false
     subtitle = "A simple theme for Hugo"
     keywords = ""
     homeSubtitle = "Everybody makes mistakes. Never regret them, correct them. There’s no such thing as a perfect world or perfect life. ― His Highness the Aga Khan IV"
-	contentDir = "content/en"
+    contentDir = "content/en"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "lila@saj:~$"
+      logoText = "mulayemshari@shookro:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
@@ -168,11 +169,12 @@ defaultContentLanguageInSubdir = false
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     homeSubtitle = "Jay me datlas bābo kay shākar māma mo shookro ba!"
     readOtherPosts = "Read other posts"
-    flag = "/images/bru.svg"
-contentDir = "content/bru"
+    #flag = "/images/bru.svg"
+    contentDir = "content/bru"
+    
     [languages.bru.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "lila@saj:~$"
+      logoText = "mulayemshari@shookro:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
