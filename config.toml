@@ -94,7 +94,7 @@ defaultContentLanguageInSubdir = false
     
     [languages.de.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "mulayemshari@shookro:~$"
+      logoText = "mulaymshari@shookro:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
@@ -133,7 +133,7 @@ defaultContentLanguageInSubdir = false
 
     [languages.en.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "mulayemshari@shookro:~$"
+      logoText = "mulaymshari@shookro:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
@@ -145,11 +145,11 @@ defaultContentLanguageInSubdir = false
   [[languages.en.menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "/about"
+    url        = "about"
   [[languages.en.menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
+    url        = "posts"
   [[languages.en.menu.main]]
     identifier = "projects"
     name       = "Projects"
@@ -167,14 +167,14 @@ defaultContentLanguageInSubdir = false
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    homeSubtitle = "Jay me datlas bābo kay shākar māma mo shookro ba!"
+    homeSubtitle = "Jay me datlas bābo (mulayemo) kay shākar māma (shari bano) mo shookro ba!"
     readOtherPosts = "Read other posts"
     #flag = "/images/bru.svg"
     contentDir = "content/bru"
     
     [languages.bru.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "mulayemshari@shookro:~$"
+      logoText = "mulaymshari@shookro:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
@@ -186,7 +186,7 @@ defaultContentLanguageInSubdir = false
     [[languages.bru.menu.main]]
       identifier = "about"
       name       = "About"
-      url        = "/about"
+      url        = "about"
 
 [markup.goldmark.renderHooks.image]
 enableDefault = true
