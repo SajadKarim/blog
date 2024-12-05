@@ -94,7 +94,7 @@ defaultContentLanguageInSubdir = false
     
     [languages.de.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "mulaymshari@shookro:~$"
+      logoText = "/@mulaymshari:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
@@ -133,7 +133,7 @@ defaultContentLanguageInSubdir = false
 
     [languages.en.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "mulaymshari@shookro:~$"
+      logoText = "/@mulaymshari:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
@@ -174,7 +174,7 @@ defaultContentLanguageInSubdir = false
     
     [languages.bru.params.logo]
       #logoText = "sajad.karim@abdul.rahim:~$"
-      logoText = "mulaymshari@shookro:~$"
+      logoText = "/@mulaymshari:~$"
       logoHomeLink = ""
       logoCursorColor = "#074ada"
     # or
