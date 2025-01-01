@@ -2,423 +2,423 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>blog/posts/creating-a-new-theme/</loc>
+    <loc>/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/creating-a-new-theme/"
+                href="/de/posts/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/creating-a-new-theme/"
+                href="/posts/creating-a-new-theme/"
                 />
   </url><url>
-    <loc>blog/posts/migrate-from-jekyll/</loc>
+    <loc>/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/migrate-from-jekyll/"
+                href="/de/posts/migrate-from-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/migrate-from-jekyll/"
+                href="/posts/migrate-from-jekyll/"
                 />
   </url><url>
-    <loc>blog/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/about/"
+                href="/bru/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/about/"
+                href="/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/about/"
+                href="/about/"
                 />
   </url><url>
-    <loc>blog/tags/about/</loc>
+    <loc>/tags/about/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/about/"
+                href="/bru/tags/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/about/"
+                href="/tags/about/"
                 />
   </url><url>
-    <loc>blog/tags/bio/</loc>
+    <loc>/tags/bio/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/bio/"
+                href="/bru/tags/bio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/bio/"
+                href="/de/tags/bio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/bio/"
+                href="/tags/bio/"
                 />
   </url><url>
-    <loc>blog/tags/consulting/</loc>
+    <loc>/tags/consulting/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/consulting/"
+                href="/bru/tags/consulting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/consulting/"
+                href="/tags/consulting/"
                 />
   </url><url>
-    <loc>blog/tags/full-stack-development/</loc>
+    <loc>/tags/full-stack-development/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/full-stack-development/"
+                href="/bru/tags/full-stack-development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/full-stack-development/"
+                href="/tags/full-stack-development/"
                 />
   </url><url>
-    <loc>blog/tags/leadership/</loc>
+    <loc>/tags/leadership/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/leadership/"
+                href="/bru/tags/leadership/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/leadership/"
+                href="/tags/leadership/"
                 />
   </url><url>
-    <loc>blog/tags/programming/</loc>
+    <loc>/tags/programming/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/programming/"
+                href="/bru/tags/programming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/programming/"
+                href="/tags/programming/"
                 />
   </url><url>
-    <loc>blog/</loc>
+    <loc>/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/"
+                href="/bru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/"
+                href="/"
                 />
   </url><url>
-    <loc>blog/tags/software-development/</loc>
+    <loc>/tags/software-development/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/software-development/"
+                href="/bru/tags/software-development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/software-development/"
+                href="/tags/software-development/"
                 />
   </url><url>
-    <loc>blog/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/"
+                href="/bru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>blog/posts/examplepost/</loc>
+    <loc>/posts/examplepost/</loc>
     <lastmod>2021-08-29T11:58:21+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/examplepost/"
+                href="/de/posts/examplepost/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/examplepost/"
+                href="/posts/examplepost/"
                 />
   </url><url>
-    <loc>blog/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-08-29T11:58:21+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/"
+                href="/de/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/"
+                href="/posts/"
                 />
   </url><url>
-    <loc>blog/tags/untagged/</loc>
+    <loc>/tags/untagged/</loc>
     <lastmod>2021-08-29T11:58:21+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/untagged/"
+                href="/de/tags/untagged/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/untagged/"
+                href="/tags/untagged/"
                 />
   </url><url>
-    <loc>blog/posts/creation-dun-nouveau-theme/</loc>
+    <loc>/posts/creation-dun-nouveau-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/creation-dun-nouveau-theme/"
+                href="/de/posts/creation-dun-nouveau-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/creation-dun-nouveau-theme/"
+                href="/posts/creation-dun-nouveau-theme/"
                 />
   </url><url>
-    <loc>blog/series/hugo-101/</loc>
+    <loc>/series/hugo-101/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/series/hugo-101/"
+                href="/de/series/hugo-101/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/series/hugo-101/"
+                href="/series/hugo-101/"
                 />
   </url><url>
-    <loc>blog/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/series/"
+                href="/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/series/"
+                href="/bru/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/series/"
+                href="/series/"
                 />
   </url><url>
-    <loc>blog/posts/goisforlovers/</loc>
+    <loc>/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/goisforlovers/"
+                href="/de/posts/goisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/goisforlovers/"
+                href="/posts/goisforlovers/"
                 />
   </url><url>
-    <loc>blog/tags/development/</loc>
+    <loc>/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/development/"
+                href="/de/tags/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/development/"
+                href="/tags/development/"
                 />
   </url><url>
-    <loc>blog/posts/debuter-avec-hugo/</loc>
+    <loc>/posts/debuter-avec-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/debuter-avec-hugo/"
+                href="/de/posts/debuter-avec-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/debuter-avec-hugo/"
+                href="/posts/debuter-avec-hugo/"
                 />
   </url><url>
-    <loc>blog/posts/hugoisforlovers/</loc>
+    <loc>/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/hugoisforlovers/"
+                href="/de/posts/hugoisforlovers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/hugoisforlovers/"
+                href="/posts/hugoisforlovers/"
                 />
   </url><url>
-    <loc>blog/tags/go/</loc>
+    <loc>/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/go/"
+                href="/de/tags/go/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/go/"
+                href="/tags/go/"
                 />
   </url><url>
-    <loc>blog/tags/golang/</loc>
+    <loc>/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/golang/"
+                href="/de/tags/golang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/golang/"
+                href="/tags/golang/"
                 />
   </url><url>
-    <loc>blog/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/hugo/"
+                href="/de/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/hugo/"
+                href="/tags/hugo/"
                 />
   </url><url>
-    <loc>blog/posts/introduction-aux-modeles-hugo/</loc>
+    <loc>/posts/introduction-aux-modeles-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/introduction-aux-modeles-hugo/"
+                href="/de/posts/introduction-aux-modeles-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/introduction-aux-modeles-hugo/"
+                href="/posts/introduction-aux-modeles-hugo/"
                 />
   </url><url>
-    <loc>blog/tags/templates/</loc>
+    <loc>/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/templates/"
+                href="/de/tags/templates/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/templates/"
+                href="/tags/templates/"
                 />
   </url><url>
-    <loc>blog/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/themes/"
+                href="/de/tags/themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/themes/"
+                href="/tags/themes/"
                 />
   </url><url>
-    <loc>blog/posts/migrer-vers-hugo-depuis-jekyll/</loc>
+    <loc>/posts/migrer-vers-hugo-depuis-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/posts/migrer-vers-hugo-depuis-jekyll/"
+                href="/de/posts/migrer-vers-hugo-depuis-jekyll/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/posts/migrer-vers-hugo-depuis-jekyll/"
+                href="/posts/migrer-vers-hugo-depuis-jekyll/"
                 />
   </url><url>
-    <loc>blog/blog/</loc>
+    <loc>/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/blog/"
+                href="/bru/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/blog/"
+                href="/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/blog/"
+                href="/blog/"
                 />
   </url>
 </urlset>

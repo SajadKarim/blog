@@ -2,188 +2,188 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>blog/bru/tags/about/</loc>
+    <loc>/bru/tags/about/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/about/"
+                href="/tags/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/about/"
+                href="/bru/tags/about/"
                 />
   </url><url>
-    <loc>blog/bru/tags/bio/</loc>
-    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="blog/de/tags/bio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/tags/bio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bru"
-                href="blog/bru/tags/bio/"
-                />
-  </url><url>
-    <loc>blog/bru/tags/consulting/</loc>
-    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/tags/consulting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bru"
-                href="blog/bru/tags/consulting/"
-                />
-  </url><url>
-    <loc>blog/bru/tags/full-stack-development/</loc>
-    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/tags/full-stack-development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bru"
-                href="blog/bru/tags/full-stack-development/"
-                />
-  </url><url>
-    <loc>blog/bru/about/</loc>
-    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="blog/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bru"
-                href="blog/bru/about/"
-                />
-  </url><url>
-    <loc>blog/bru/tags/leadership/</loc>
-    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/tags/leadership/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bru"
-                href="blog/bru/tags/leadership/"
-                />
-  </url><url>
-    <loc>blog/bru/tags/programming/</loc>
-    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/tags/programming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bru"
-                href="blog/bru/tags/programming/"
-                />
-  </url><url>
-    <loc>blog/bru/</loc>
-    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="blog/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bru"
-                href="blog/bru/"
-                />
-  </url><url>
-    <loc>blog/bru/tags/software-development/</loc>
-    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/tags/software-development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bru"
-                href="blog/bru/tags/software-development/"
-                />
-  </url><url>
-    <loc>blog/bru/tags/</loc>
+    <loc>/bru/tags/bio/</loc>
     <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/tags/"
+                href="/de/tags/bio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="blog/tags/"
+                href="/tags/bio/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/tags/"
+                href="/bru/tags/bio/"
                 />
   </url><url>
-    <loc>blog/bru/blog/</loc>
+    <loc>/bru/tags/consulting/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/consulting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bru"
+                href="/bru/tags/consulting/"
+                />
+  </url><url>
+    <loc>/bru/tags/full-stack-development/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/full-stack-development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bru"
+                href="/bru/tags/full-stack-development/"
+                />
+  </url><url>
+    <loc>/bru/about/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/blog/"
+                href="/de/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/blog/"
+                href="/bru/about/"
                 />
   </url><url>
-    <loc>blog/bru/series/</loc>
+    <loc>/bru/tags/leadership/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/leadership/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bru"
+                href="/bru/tags/leadership/"
+                />
+  </url><url>
+    <loc>/bru/tags/programming/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/programming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bru"
+                href="/bru/tags/programming/"
+                />
+  </url><url>
+    <loc>/bru/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="blog/de/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="blog/series/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bru"
-                href="blog/bru/series/"
+                href="/bru/"
+                />
+  </url><url>
+    <loc>/bru/tags/software-development/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/software-development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bru"
+                href="/bru/tags/software-development/"
+                />
+  </url><url>
+    <loc>/bru/tags/</loc>
+    <lastmod>2024-02-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bru"
+                href="/bru/tags/"
+                />
+  </url><url>
+    <loc>/bru/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bru"
+                href="/bru/blog/"
+                />
+  </url><url>
+    <loc>/bru/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="/de/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bru"
+                href="/bru/series/"
                 />
   </url>
 </urlset>

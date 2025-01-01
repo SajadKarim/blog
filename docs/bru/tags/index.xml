@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shookrullah Baig</title>
-    <link>blog/bru/tags/</link>
+    <link>/bru/tags/</link>
     <description>Recent content in Tags on Shookrullah Baig</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bru</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="blog/bru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/bru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>blog/bru/tags/about/</link>
+      <link>/bru/tags/about/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog/bru/tags/about/</guid>
+      <guid>/bru/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bio</title>
-      <link>blog/bru/tags/bio/</link>
+      <link>/bru/tags/bio/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog/bru/tags/bio/</guid>
+      <guid>/bru/tags/bio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>consulting</title>
-      <link>blog/bru/tags/consulting/</link>
+      <link>/bru/tags/consulting/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog/bru/tags/consulting/</guid>
+      <guid>/bru/tags/consulting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>full-stack development</title>
-      <link>blog/bru/tags/full-stack-development/</link>
+      <link>/bru/tags/full-stack-development/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog/bru/tags/full-stack-development/</guid>
+      <guid>/bru/tags/full-stack-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>leadership</title>
-      <link>blog/bru/tags/leadership/</link>
+      <link>/bru/tags/leadership/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog/bru/tags/leadership/</guid>
+      <guid>/bru/tags/leadership/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>blog/bru/tags/programming/</link>
+      <link>/bru/tags/programming/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog/bru/tags/programming/</guid>
+      <guid>/bru/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>software development</title>
-      <link>blog/bru/tags/software-development/</link>
+      <link>/bru/tags/software-development/</link>
       <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>blog/bru/tags/software-development/</guid>
+      <guid>/bru/tags/software-development/</guid>
       <description></description>
     </item>
     

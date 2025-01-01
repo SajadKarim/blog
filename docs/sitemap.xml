@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>blog/bru/sitemap.xml</loc>
+    <loc>/bru/sitemap.xml</loc>
     
       <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>blog/de/sitemap.xml</loc>
+    <loc>/de/sitemap.xml</loc>
     
       <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>blog/en/sitemap.xml</loc>
+    <loc>/en/sitemap.xml</loc>
     
       <lastmod>2024-02-18T00:00:00+00:00</lastmod>
     

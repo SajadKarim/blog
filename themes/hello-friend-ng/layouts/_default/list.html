@@ -1,6 +1,35 @@
 {{ define "main" }}
     {{ $paginator := .Paginate .Data.Pages }}
 
+<!-- The following style is added to display "Active" as the tooltip text when hovered over active projects. -->
+<style>
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip::after {
+    content: "Active";
+    position: absolute;
+    bottom: 125%; /* Position above the element */
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 5px;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.2s;
+}
+
+.tooltip:hover::after {
+    opacity: 1;
+    visibility: visible;
+}
+</style>
+
     <main class="posts">
         <h1>{{ .Title }}</h1>
 
@@ -16,7 +45,12 @@
                     {{ range .Pages }}
                         <li class="post-item">
                             <a href="{{.Permalink}}" class="post-item-inner">
-                                <span class="post-title">{{.Title}}</span>
+                                <span class="post-title">
+                                	{{.Title}}
+					{{ if .Params.active }}
+						<span class="logo__cursor __web-inspector-hide-shortcut__ tooltip" style="background-color:green;"></span>
+					{{ end }}
+                                </span>
                                 <span class="post-day">
                                     {{ if .Site.Params.dateformShort }}
                                         {{ time.Format .Site.Params.dateformShort .Date }}

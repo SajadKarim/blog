@@ -1,8 +1,8 @@
-baseurl      = "https://sajadkarim.github.io/blog/"
+baseurl      = "blog/"
 title        = "Sajad Karim"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-paginate     = 10
+paginate     = 100
 publishDir = "docs"
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 IsMultilingual = true
@@ -153,7 +153,7 @@ defaultContentLanguageInSubdir = false
   [[languages.en.menu.main]]
     identifier = "projects"
     name       = "Projects"
-    url        = "#"    
+    url        = "projects"    
   [[languages.en.menu.main]]
     identifier = "publications"
     name       = "Publications"
