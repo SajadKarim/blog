@@ -12,15 +12,46 @@ tags:
   - consulting
 ---
 
-yā lay yāran kāman thāla mānay!!! 
+Yarān English ke Deutsch lo baisan gir menā bā kay, meshāsh ki lou kay ooyoun gir meām chay.. 
 
-English lü  bayr man girmenA bā kay.. etay öyoun meshāshki lö germe nās belā.. 
+par, me Hunzo 100% literarcy rate belā saym bān.. 
 
-etay khaa ja assagonay ka tasveran barayn!
+etay chum, etay ooyoun āmit English/Deutsch lo gir menā bā kay meshāsh ki lou gir menās say baisān hāsil an ayā gayā bā.. 
 
-{{< figure src="/images/abdullah_bd.jpg">}}
+dā tayromān tame ke āpi na yarān.. 
+
+etay chum, jā precious rishtan aay picture barāyn..
+
+----
+
+Ouyoun chum chhor, hān guzārish an mā huzoor lou,
+
+Jaa mārhoom Bābo (Mulaeem Baig, da bayshal Mulayemo kay aysham, par CNIC lou Abdul Rahim eek beylom), ja mārhoom Māma (mam Shari chum yaad mocham, da CNIC lo  moek Sharista Bagum biloom), da ja acho Rehmat Karim (demanom eek RehmatUllah Baig bilum) - ja mārhoom tee nay ganay, **Imam-e-Zaman** huzoor hik **Salwat** nazrana paisah aytomā kay jay ma boot mushkoor amayam. Aur ja māma mayaroom marhoomeen tee nar kay **Salawt** nazrana **Imam-e-Zaman** huzoor lou paysh aycha ba.
+
+----
+اللهم صل علی محمد و آل محمد 
+
+----
+
+اے الله! حضرت محمدؐ اور امام علیؑ اور بی بی فاطمہؑ اور حضرت حسنؑ اور امام حسینؑ اور تمام پاک آئمہؑ اور ہمارے حاضروموجود امام شاہ کریم الحسینیؑ کے واسطے سے مرحومہ کی روح کو اصل میں واصل اور درجات بلند فرما! آمین یا رب العالمين-  
+
+اے الله! حضرت محمدؐ اور امام علیؑ اور بی بی فاطمہؑ اور حضرت حسنؑ اور امام حسینؑ اور تمام پاک آئمہؑ اور ہمارے حاضروموجود امام شاہ کریم الحسینیؑ کے واسطے سے مرحومہ کی روح کو اصل میں واصل اور درجات بلند فرما! آمین یا رب العالمين-  
 
 
 
+---
+Jaa datlas bābo (mulayemo) kay shākar māma (shari bano) baan
 
+{{< figure src="/images/mulaymshari.jpg">}}
+
+Da khotlo ja great aacho Rehmat bae, ooyoun chum daltas enay Rehmat bae, thoom enay jay ba :)
+
+{{< figure src="/images/greatrehmat.jpg">}}
+
+
+
+<!--
+{{< figure src="/images/karimabad_jk.png" width="550" caption="Jamatkhana (Karachi) [3]" class="right-floated">}}
+{{< figure src="/images/karimabad_jk.png" width="250" caption="Jamatkhana (Karachi) [3]" class="left-floated">}}
+-->
 
