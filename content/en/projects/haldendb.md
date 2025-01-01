@@ -108,5 +108,5 @@ A step by step series of examples that tell you how to get a development environ
 ---------   
 
 
-Please visit this [link]({{https://github.com/SajadKarim/haldendb}}) for more details.
+Please visit this [link](https://github.com/SajadKarim/haldendb) for more details.
 
