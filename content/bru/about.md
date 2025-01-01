@@ -23,7 +23,6 @@ dā tayromān tame ke āpi na yarān..
 etay chum, jā precious rishtan aay picture barāyn..
 
 ----
-
 Ouyoun chum chhor, hān guzārish an mā huzoor lou,
 
 Jaa mārhoom Bābo (Mulaeem Baig, da bayshal Mulayemo kay aysham, par CNIC lou Abdul Rahim eek beylom), ja mārhoom Māma (mam Shari chum yaad mocham, da CNIC lo  moek Sharista Bagum biloom), da ja acho Rehmat Karim (demanom eek RehmatUllah Baig bilum) - ja mārhoom tee nay ganay, **Imam-e-Zaman** huzoor hik **Salwat** nazrana paisah aytomā kay jay ma boot mushkoor amayam. Aur ja māma mayaroom marhoomeen tee nar kay **Salawt** nazrana **Imam-e-Zaman** huzoor lou paysh aycha ba.
@@ -32,11 +31,9 @@ Jaa mārhoom Bābo (Mulaeem Baig, da bayshal Mulayemo kay aysham, par CNIC lou A
 اللهم صل علی محمد و آل محمد 
 
 ----
-
-اے الله! حضرت محمدؐ اور امام علیؑ اور بی بی فاطمہؑ اور حضرت حسنؑ اور امام حسینؑ اور تمام پاک آئمہؑ اور ہمارے حاضروموجود امام شاہ کریم الحسینیؑ کے واسطے سے مرحومہ کی روح کو اصل میں واصل اور درجات بلند فرما! آمین یا رب العالمين-  
-
-اے الله! حضرت محمدؐ اور امام علیؑ اور بی بی فاطمہؑ اور حضرت حسنؑ اور امام حسینؑ اور تمام پاک آئمہؑ اور ہمارے حاضروموجود امام شاہ کریم الحسینیؑ کے واسطے سے مرحومہ کی روح کو اصل میں واصل اور درجات بلند فرما! آمین یا رب العالمين-  
-
+{{% urdu-text %}}
+اے الله! حضرت محمد (صلى الله عليه وسلم) اور امام علی (علیہ السلام) اور بی بی فاطمہ (علیہ السلام) اور حضرت حسن (علیہ السلام) اور امام حسین (علیہ السلام) اور تمام پاک آئمہ(علیہ السلام) اور ہمارے حاضروموجود امام شاہ کریم الحسینی (علیہ السلام) کے واسطے سے مرحومین  کی روحو ں  کو اصل میں واصل اور درجات بلند فرما! آمین یا رب العالمين-  
+{{% /urdu-text %}}
 
 
 ---
