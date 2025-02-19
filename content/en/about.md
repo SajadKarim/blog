@@ -11,7 +11,8 @@ tags:
   - leadership
   - consulting
 ---
-
+wip...
+<!--
 {{< figure src="/images/baltit_fort.jpg" width="250" caption="Baltit fort (Hunza) [1]" class="right-floated">}}
 
 Sajad Karim was born in Karimabad, a small and beautiful town in Hunza, located in northern Pakistan. He spent his early childhood surrounded by nature, but later moved to Karachi, where he lived most of his life. He began his education at Al-Azhar Academy, a school in his neighborhood, where he laid the groundwork for his academic journey.
@@ -130,4 +131,7 @@ References:
 
 ###### Please note: This text has been paraphrased using Grammarly. The original content was provided as bullet points, and the tool's generative AI feature has enhanced it to make it more engaging and appealing.
 
+-->
+
+Please feel free to contact me via [Lila](mailto:sajad.karim<at>gmail.com).
 
