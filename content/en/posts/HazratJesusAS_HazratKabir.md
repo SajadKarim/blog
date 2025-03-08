@@ -18,13 +18,9 @@ When the presenter mentioned music, I knew Khomeini would likely have given a fa
 
 In her letter, Madam Noor Jehan asked Khomeini for a fatwa on how to perform Nazar or Nyaz (a noble charity act) in the name of Imam Hussain A.S. She wanted to know if it was permissible. Khomeini's response was quite disturbing for her (and many like her). In his response, he equated the money earned from singing or acting to pig's urine. In summary, such money is not just unacceptable but disgustingly haram, and it couldn't be used for charity or personal use, just like pig is haram in Islam. 
 
-The link to the video is given below.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xsc12Quq4p8?si=rd8PkgawDmDVjLHv&amp;start=655" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+The link to the video: https://www.youtube.com/embed/xsc12Quq4p8?si=rd8PkgawDmDVjLHv&amp;start=655
 
 Anyhow, this reminded me of a quote from Hazrat Kabir and a historic event from Prophet Jesus (SWA).
-
 
 >When I went to look for the bad, I did not find anyone bad.
 >
@@ -44,6 +40,9 @@ Kabir's verse highlights the introspective journey of seeking faults in others, 
 
 Both narratives encourage looking inward before passing judgment on others, fostering a sense of empathy and self-awareness. They remind us that recognizing our own faults is a prerequisite for understanding and compassion towards others. 
 
+_writing... :)_
+
 -----
 [1] https://en.wikipedia.org/wiki/Kabir
+
 [2] https://en.wikipedia.org/wiki/Jesus_and_the_woman_taken_in_adultery
