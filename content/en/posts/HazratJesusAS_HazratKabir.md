@@ -20,7 +20,7 @@ In her letter, Madam Noor Jehan asked Khomeini for a fatwa on how to perform Naz
 
 The link to the video: https://www.youtube.com/embed/xsc12Quq4p8?si=rd8PkgawDmDVjLHv&amp;start=655
 
-Anyhow, this reminded me of a quote from Hazrat Kabir and a historic event from Prophet Jesus (SWA).
+Anyhow, this reminded me of a quote from Saint Kabir and a historic event from Prophet Jesus (SWA).
 
 >When I went to look for the bad, I did not find anyone bad.
 >When I searched my heart, I found no one worse than me.
@@ -39,9 +39,10 @@ Kabir's verse highlights the introspective journey of seeking faults in others, 
 
 Both narratives encourage looking inward before passing judgment on others, fostering a sense of empathy and self-awareness. They remind us that recognizing our own faults is a prerequisite for understanding and compassion towards others. 
 
-<!--We often come across individuals whom we perceive in a certain light, believing them to be trustworthy and understanding. In our warmth and limited perspective, we confide in them, sharing personal stories and vulnerabilities. However, the true nature of these individuals may only become evident later when they use those experiences against us, attempting to undermine and belittle us.
+<!--
+We often come across individuals whom we perceive in a certain light, believing them to be trustworthy and understanding. In our warmth and limited perspective, we confide in them, sharing personal stories and vulnerabilities. However, the true nature of these individuals may only become evident later when they use those experiences against us, attempting to undermine and belittle us.
 
-Ironically, these very individuals commit actions far more sinful or disgusting than anything we have done, yet we refrain from bringing up their past misdeeds. Reminding someone of their past mistakes is unkind and evil. This sentiment aligns with the teachings of the saint Kabir, who reflected on the tendency to seek faults in others without recognizing our own shortcomings.-->
+The most amusing part is these very individuals have far more darker past than yours and things far more sinful or disgusting than anything you have done, yet they try to put your past in discussion just to make themselves pious. You do not do such things as you see it is unkind and evil and why to bring the past when you have already accepted them and agreed on moving on with it. This sentiment aligns with the teachings of the saint Kabir, who reflected on the tendency to seek faults in others without recognizing our own shortcomings. The message is do not seek for opinions, and do not try to be transparent as no one is pious and you never know how bad the other person is carrying from the past -->
 
 -----
 [1] https://en.wikipedia.org/wiki/Kabir
