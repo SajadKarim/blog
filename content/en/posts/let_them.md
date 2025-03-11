@@ -73,4 +73,4 @@ I also found a video of a lovely and elegant lady reading this poem. This video 
 > *by Cassie Phillips*
 
 You cannot force a heart to stay. Love must flow, unbound, unchained, not begged, nor bought, nor tightly claimed.
-Though it hurts to let them go, a love that is real will stay and freely grow.
+Though it hurts to let them go, a love that is real will stay and freely grow. The earlier you embrace letting go, the less you'll endure—maybe even not at all! 
