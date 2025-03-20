@@ -1,7 +1,7 @@
 ---
 author:
   name: "Sajad Karim"
-date: 2025-03-20T23:36:00-07:00
+date: 2025-03-20T18:36:00-07:00
 linktitle: "Navrouz Mubarak! and thank you for the Birthday Wishes"
 title: "Navrouz Mubarak! and thank you for the Birthday Wishes"
 type:
