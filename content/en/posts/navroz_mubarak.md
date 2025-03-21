@@ -30,8 +30,8 @@ Along with this, I would like to extend my heartfelt thanks to everyone who sent
 
 {{< figure src="/images/bd_wishes_25.png" caption="Birthday Wishes 25!" >}}
 
-Lastly, I would turn the page in my life's chapter with the following..
+<!--Lastly, I would turn the page in my life's chapter with the following..
 
 There’s strength in letting go, a power in choosing yourself, in understanding that the love you give is not a weakness, but a testament to who you are.
 
-Let's close the chapter, not with anger, not with despair, but with hope, hope that you will find peace in the silence and joy in the spaces yet to be filled.
+Let's close the chapter, not with anger, not with despair, but with hope, hope that you will find peace in the silence and joy in the spaces yet to be filled.-->
