@@ -28,7 +28,7 @@ Navrouz is the Persian New Year celebrated on the spring equinox, marking the fi
 
 Along with this, I would like to extend my heartfelt thanks to everyone who sent me kind birthday wishes. I made the following word cloud out of the texts/emails :)
 
-{{< figure src="/images/bd_wishes_25" caption="Birthday Wishes 25!" >}}
+{{< figure src="/images/bd_wishes_25.png" caption="Birthday Wishes 25!" >}}
 
 Lastly, I would turn the page in my life's chapter with the following..
 
