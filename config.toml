@@ -60,17 +60,14 @@ IsMultilingual = true
   name = "discord"
   url = "@sajad.karim"
 [[params.social]]
-  name = "X"
-  url = "https://twitter.com/sajadkarim"
-[[params.social]]
   name = "researchgate"
   url = "https://www.researchgate.net/profile/Sajad_Karim"
 [[params.social]]
   name = "orcid"
-  url = "#"
+  url = "https://orcid.org/0009-0002-4910-8453"
 [[params.social]]
   name = "googlescholar"
-  url = "#"
+  url = "https://scholar.google.com/citations?hl=en&user=WEEOxxgAAAAJ"
 [[params.social]]
   name = "case"
   url = "https://www.dbse.ovgu.de/en/Staff/Sajad+Karim.html"
